@@ -1,1 +1,1 @@
-This is a my bootstrap project
+This is a bootstrap project
